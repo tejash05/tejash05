@@ -49,15 +49,15 @@
 
 ### 🚀 Projects
 
-- **[SafeClick](#)**  
+- **[SafeClick](https://github.com/tejash05/SafeClick)**  
   AI-powered phishing detection system using **XGBoost** and a Chrome Extension.  
   🏆 Winner of **HackSRM 6.0 - AIML Track**, achieving **92% accuracy** in phishing detection.
 
-- **[NeuroWell](#)**  
+- **[NeuroWell](https://github.com/tejash05/NeuroWell)**  
   AI-first mental wellness chatbot built with **FastAPI**, **Gemini 1.5**, **LLaMA3**, and **LangChain**.  
   Features include emotion-based conversation, mental health screening, PDF reporting, and counselor escalation.
 
-- **[FitTrack](#)**  
+- **[FitTrack](https://github.com/tejash05/FitTrack)**  
   Fitness tracking dashboard made with **React** and **Chart.js**.  
   Offers goal tracking, analytics, and responsive UI for all devices.
 
