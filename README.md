@@ -48,9 +48,19 @@
 ---
 
 ### 🚀 Projects
-- **[Movie Recommendation System](#)**: Personalized recommendations using Python, Flask, and NLP.
-- **[Portfolio Website](#)**: Built with React and Tailwind CSS.
-- **[Forest Fire Prediction](#)**: Forecasting model with Ridge Regression (R² = 98.23%).
+
+- **[SafeClick](#)**  
+  AI-powered phishing detection system using **XGBoost** and a Chrome Extension.  
+  🏆 Winner of **HackSRM 6.0 - AIML Track**, achieving **92% accuracy** in phishing detection.
+
+- **[NeuroWell](#)**  
+  AI-first mental wellness chatbot built with **FastAPI**, **Gemini 1.5**, **LLaMA3**, and **LangChain**.  
+  Features include emotion-based conversation, mental health screening, PDF reporting, and counselor escalation.
+
+- **[FitTrack](#)**  
+  Fitness tracking dashboard made with **React** and **Chart.js**.  
+  Offers goal tracking, analytics, and responsive UI for all devices.
+
 
 ---
 
